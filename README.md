@@ -1,2 +1,2 @@
 # learning_githubpages
-###### the github page
+## the github page
